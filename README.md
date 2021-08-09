@@ -1,7 +1,12 @@
 # Heart-Disease-Detection-With-LogisticRegression
 Python Data Science Project, Heart Disease Detection using:
 
-- LogisticRegression (93% Accuracy)
+- LogisticRegression (94.08 % Accuracy)
+- Support Vector Machine (96.05 % Accuracy)
+- Decision Tree (94.08 % Accuracy)
+- Random Forest (96.05 % Accuracy)
+- AdaBoostClassifier (92.61 % Accuracy)
+- GradientBoostingClassifier (95.07 % Accuracy)
 
 For other Accuracy Details Please Check the Project. Other Accuracy Criterias are AUC & ROC Curve, Confusion Matrix, Classification Report, recall_score, precision_score etc.
 
