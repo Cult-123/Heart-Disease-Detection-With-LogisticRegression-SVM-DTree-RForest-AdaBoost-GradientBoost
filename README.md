@@ -16,6 +16,17 @@ Heart Disease (including Coronary Heart Disease, Hypertension, and Stroke) remai
 * On average, someone dies of CVD every 38 seconds. About 2,303 deaths from CVD each day, based on 2016 data.
 * On average, someone dies of a stroke every 3.70 minutes. About 389.4 deaths from stroke each day, based on 2016 data.
 
+![](Images/H1.JPG)
+![](Images/H2.JPG)
+![](Images/H3.JPG)
+![](Images/H4.JPG)
+![](Images/H5.JPG)
+![](Images/H6.JPG)
+![](Images/H7.JPG)
+![](Images/H8.JPG)
+![](Images/H9.JPG)
+![](Images/H10.JPG)
+
 ## Project Overview
 In this Project I have unleashed the useful Data Science insights using this Heart_Disease dataset and performed the feature selection, feature engineering & missing data handling precisely to build Classification models. In this project I have used Classification Algorithms which are Logistic Regression. Logistic Regression Algorithm along with combining the power of best statistical rules & principles to maximise accuracy at its best followed by all statistical conditions. The best thing is my model is not having any Multicollinearity Problem. All features are fulfilling Statistically Significant concept respect to the target variable.
 
