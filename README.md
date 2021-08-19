@@ -1,6 +1,7 @@
 # Heart-Disease-Detection-With-LogisticRegression
 Python Data Science Project, Heart Disease Detection using:
 
+![](Images/H12.JPG)
 ![](Images/H1.JPG)
 
 - LogisticRegression (94.08 % Accuracy)
