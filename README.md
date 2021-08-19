@@ -25,7 +25,7 @@ Heart Disease (including Coronary Heart Disease, Hypertension, and Stroke) remai
 ![](Images/H6.JPG)
 ![](Images/H7.JPG)
 ![](Images/H8.JPG)
-![](Images/H9.JPG)
+![](Images/H11.JPG)
 ![](Images/H10.JPG)
 
 ## Project Overview
