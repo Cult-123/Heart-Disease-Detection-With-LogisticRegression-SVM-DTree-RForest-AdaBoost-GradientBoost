@@ -1,6 +1,8 @@
 # Heart-Disease-Detection-With-LogisticRegression
 Python Data Science Project, Heart Disease Detection using:
 
+![](Images/H1.JPG)
+
 - LogisticRegression (94.08 % Accuracy)
 - Support Vector Machine (96.05 % Accuracy)
 - Decision Tree (94.08 % Accuracy)
@@ -16,7 +18,6 @@ Heart Disease (including Coronary Heart Disease, Hypertension, and Stroke) remai
 * On average, someone dies of CVD every 38 seconds. About 2,303 deaths from CVD each day, based on 2016 data.
 * On average, someone dies of a stroke every 3.70 minutes. About 389.4 deaths from stroke each day, based on 2016 data.
 
-![](Images/H1.JPG)
 ![](Images/H2.JPG)
 ![](Images/H3.JPG)
 ![](Images/H4.JPG)
